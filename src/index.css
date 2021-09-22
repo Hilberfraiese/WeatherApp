@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2? family = Dosis & display = swap');
+
+/* background: url("https://cdn.akamai.steamstatic.com/steam/apps/1083282/ss_d2826f9ae09275627e1ac577ce5c5156c1df88ad.1920x1080.jpg?t=1560244539")  no-repeat center center fixed;
+ */
+ body{
+    background: url("https://images4.alphacoders.com/528/thumb-1920-52896.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

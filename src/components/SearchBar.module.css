@@ -1,0 +1,36 @@
+.searchBar {
+    padding: 0.25rem;
+    border: solid 2px;
+    border-color: rgba(0, 0, 0, 0.411);
+    background-color:  rgba(255, 255, 255, 0.411);
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 9999px;
+    display: flex;
+  }
+
+.input{
+    border:none;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    background-color:   rgba(255, 255, 255, 0.014);
+    color :honeydew;
+}
+
+.input:focus {
+outline: none;
+}
+
+.search{
+  background-color: rgba(88, 86, 86, 0.897);
+  border: none;  
+  border-radius: 9999px;
+  width: 2rem;
+  height: 2rem;
+  display: top;
+ }
+
+.search:hover{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: rgb(255, 255, 255);
+  }
