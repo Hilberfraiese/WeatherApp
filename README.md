@@ -1,7 +1,6 @@
-## Henry Weather
 
 
-### Ejercitación
+### Wheatter App
 
 En este Proyecto usted podra ver el clima en las distintas ciudades del mundo.
 
